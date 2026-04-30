@@ -12,7 +12,8 @@ issue: "3"
 pages: "67"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@amonkar_compoundclimaterisk:2023"
+nocite: "@amonkar_compound:2023"
+image: ../../_assets/img/pubs/amonkar_compound_2023.png
 
 about:
   template: solana
@@ -31,7 +32,7 @@ The potential for extreme climate events to cluster in space and time has driven
 ## BibTeX
 
 ```bibtex
-@article{amonkar_compoundclimaterisk:2023,
+@article{amonkar_compound:2023,
   issue = {3},
   urldate = {2023-03-16},
   url = {https://www.mdpi.com/2306-5338/10/3/67},

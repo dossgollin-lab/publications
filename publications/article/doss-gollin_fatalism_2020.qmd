@@ -12,7 +12,8 @@ volume: "146"
 issue: "4"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@doss-gollin_adaptationoverfatalism:2020"
+nocite: "@doss-gollin_fatalism:2020"
+image: ../../_assets/img/pubs/doss-gollin_fatalism_2020.jpg
 
 about:
   template: solana
@@ -31,7 +32,7 @@ The property damaged and the lives disrupted by recent hurricanes, floods, droug
 ## BibTeX
 
 ```bibtex
-@article{doss-gollin_adaptationoverfatalism:2020,
+@article{doss-gollin_fatalism:2020,
   open = {true},
   urldate = {2020-01-29},
   url = {http://ascelibrary.org/doi/10.1061/%28ASCE%29WR.1943-5452.0001190},

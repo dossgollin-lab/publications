@@ -13,7 +13,8 @@ issue: "17"
 pages: "6669--6685"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
-nocite: "@doss-gollin_heavyrainfallinparaguayduringthe2015-2016australsummer:2018"
+nocite: "@doss-gollin_pyfloods:2018"
+image: ../../_assets/img/pubs/doss-gollin_pyfloods_2018.jpg
 
 about:
   template: solana
@@ -38,7 +39,7 @@ During the austral summer 2015/16, severe flooding displaced over 170 000 people
 ## BibTeX
 
 ```bibtex
-@article{doss-gollin_heavyrainfallinparaguayduringthe2015-2016australsummer:2018,
+@article{doss-gollin_pyfloods:2018,
   repo = {https://github.com/jdossgollin/2018-paraguay-floods},
   preprint = {https://eartharxiv.org/gzj8n/},
   open = {true},
