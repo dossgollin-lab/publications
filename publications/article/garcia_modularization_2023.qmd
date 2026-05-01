@@ -6,7 +6,7 @@ author:
   - "**J. Doss-Gollin**"
   - P. Bedient
 date: 2023-03-20
-details: "Engineering Applications Of Computational Fluid Mechanics"
+details: "Engineering Applications of Computational Fluid Mechanics"
 year: 2023
 volume: "17"
 issue: "1"

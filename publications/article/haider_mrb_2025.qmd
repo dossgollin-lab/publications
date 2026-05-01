@@ -7,7 +7,7 @@ author:
   - K. B. J. Dunne
   - S. E. Muñoz
 date: 2025-06-01
-details: "Global And Planetary Change"
+details: "Global and Planetary Change"
 year: 2025
 volume: "249"
 pages: "104742"

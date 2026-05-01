@@ -26,6 +26,20 @@ def escape_yaml_string(value):
     return value.replace(r"\&", "&").replace(r"\:", ":")
 
 
+def strip_braces(value):
+    """Strip BibTeX brace protection from a string without changing case."""
+    if not value:
+        return value
+
+    # Iteratively convert double curly braces to single
+    while "{{" in value and "}}" in value:
+        value = value.replace("{{", "{").replace("}}", "}")
+
+    # Drop remaining single braces (the content was already protecting case;
+    # since we are not title-casing here, the braces themselves are not needed)
+    return value.replace("{", "").replace("}", "")
+
+
 def format_title(title):
     """Format the title using title case except for content inside curly braces."""
     if not title:
@@ -168,8 +182,8 @@ def write_metadata_to_qmd(entry, qmd_file):
     date = format_date(entry.get("date", ""))
     qmd_file.write(f"date: {date}\n")
 
-    # Details
-    details = format_title(escape_yaml_string(get_details_from_entry(entry)))
+    # Details (journal/venue name; preserve original casing from BibTeX)
+    details = strip_braces(escape_yaml_string(get_details_from_entry(entry)))
     qmd_file.write(f'details: "{details}"\n')
 
     # Year (separate field for filtering/sorting)

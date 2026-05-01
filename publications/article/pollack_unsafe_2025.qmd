@@ -6,7 +6,7 @@ author:
   - Vivek Srikrishnan
   - Klaus Keller
 date: 2025-11-13
-details: "Journal Of Open Source Software"
+details: "Journal of Open Source Software"
 year: 2025
 volume: "10"
 issue: "115"

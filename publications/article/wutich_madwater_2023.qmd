@@ -13,7 +13,7 @@ author:
   - W. Shane Walker
   - Paul Westerhoff
 date: 2023-07-12
-details: "Wires Water"
+details: "WIREs Water"
 year: 2023
 pages: "e1680"
 bibliography: ../../my-papers.bib

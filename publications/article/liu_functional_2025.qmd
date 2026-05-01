@@ -6,7 +6,7 @@ author:
   - "**James Doss-Gollin**"
   - Marina Vannucci
 date: 2025-06-01
-details: "Computational Statistics And Data Analysis"
+details: "Computational Statistics and Data Analysis"
 year: 2025
 volume: "206"
 pages: "108122"

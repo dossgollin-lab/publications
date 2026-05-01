@@ -26,7 +26,7 @@ author:
   - Mengqi Zhao
   - Klaus Keller
 date: 2026-01-20
-details: "Proceedings Of The National Academy Of Sciences"
+details: "Proceedings of the National Academy of Sciences"
 year: 2026
 volume: "123"
 issue: "3"

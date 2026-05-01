@@ -7,7 +7,7 @@ author:
   - Sylvia Dee
   - Samuel Munoz
 date: 2025-09-25
-details: "Hydrology And Earth System Sciences"
+details: "Hydrology and Earth System Sciences"
 year: 2025
 volume: "29"
 issue: "18"

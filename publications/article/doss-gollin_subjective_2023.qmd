@@ -4,7 +4,7 @@ author:
   - "**James Doss-Gollin**"
   - Klaus Keller
 date: 2023-01
-details: "Earth'S Future"
+details: "Earth's Future"
 year: 2023
 volume: "11"
 issue: "1"

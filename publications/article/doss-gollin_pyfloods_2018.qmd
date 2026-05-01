@@ -6,7 +6,7 @@ author:
   - Simon J. Mason
   - Max Pastén
 date: 2018-09
-details: "Journal Of Climate"
+details: "Journal of Climate"
 year: 2018
 volume: "31"
 issue: "17"

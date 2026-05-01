@@ -6,7 +6,7 @@ author:
   - Michelle Ho
   - Upmanu Lall
 date: 2020-04-01
-details: "Journal Of Water Resources Planning And Management"
+details: "Journal of Water Resources Planning and Management"
 year: 2020
 volume: "146"
 issue: "4"

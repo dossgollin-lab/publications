@@ -6,7 +6,7 @@ author:
   - Scott Steinschneider
   - Upmanu Lall
 date: 2019-06-07
-details: "Earth'S Future"
+details: "Earth's Future"
 year: 2019
 volume: "7"
 issue: "7"

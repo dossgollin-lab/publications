@@ -10,7 +10,7 @@ author:
   - Upmanu Lall
   - Bruno Merz
 date: 2019-01-01
-details: "Earth'S Future"
+details: "Earth's Future"
 year: 2019
 volume: "7"
 issue: "4"
