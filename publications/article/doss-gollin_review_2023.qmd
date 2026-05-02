@@ -3,7 +3,7 @@ title: "Improving The Representation Of Climate Risks In Long-Term Electricity S
 author:
   - "**James Doss-Gollin**"
   - Yash Amonkar
-  - Katlyn Schmeltzer
+  - "**Katlyn Schmeltzer**"
   - Daniel Cohan
 date: 2023-08-16
 details: "Current Sustainable/Renewable Energy Reports"

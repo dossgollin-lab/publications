@@ -1,7 +1,7 @@
 ---
 title: "Competing Influences Of Land Use And Greenhouse Gas Emissions On Mississippi River Basin Hydroclimate Simulated Over The Last Millennium"
 author:
-  - Kelsey Murphy
+  - "**Kelsey Murphy**"
   - Sylvia Dee
   - "**James Doss-Gollin**"
   - Kieran B. J. Dunne

@@ -1,7 +1,7 @@
 ---
 title: "The Changing Relationship Between The Bermuda High, Great Plains Low-Level Jet, And Mississippi River Basin Hydroclimate From The Last Millennium To 2100"
 author:
-  - Kelsey Murphy
+  - "**Kelsey Murphy**"
   - Sylvia Dee
   - Christopher Hancock
   - Emilia Pitchon

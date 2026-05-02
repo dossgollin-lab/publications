@@ -6,7 +6,7 @@ author:
   - Muhammad Rezaul Haider
   - "**James Doss-Gollin**"
   - Flavio Lehner
-  - Kelsey Murphy
+  - "**Kelsey Murphy**"
   - Samuel E. Munoz
 date: 2025-01-01
 details: ""
