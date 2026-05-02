@@ -10,7 +10,20 @@ TARGET = Path("my-papers.bib")
 
 # Configuration
 SELF_NAMES = ["James Doss-Gollin", "J. Doss-Gollin"]
-GROUP_MEMBERS = ["Yuchen Lu", "Lu, Yuchen"]
+GROUP_MEMBERS = [
+    "Alyssa Graham",
+    "Dongwook Kim",
+    "John Cook",
+    "Jonah Schaechter",
+    "Katlyn Schmeltzer",
+    "Kelsey Murphy",
+    "Kristina Cibor",
+    "Kyle Olcott",
+    "Sophia Prieto",
+    "True Furrh",
+    "Yuchen Lu",
+    "Zain Rahman",
+]
 
 # Statistics tracking
 IMAGE_STATS = {"existing_images": 0, "no_images": 0}
@@ -100,7 +113,7 @@ def format_author_name(name):
     ):
         return f"**{formatted_name}**"
     elif formatted_name in GROUP_MEMBERS:
-        return f"*{formatted_name}*"
+        return f"**{formatted_name}**"
     else:
         return formatted_name
 
