@@ -37,8 +37,10 @@ Projections of nonstationary climate risks can vary considerably from one source
 
 ```bibtex
 @article{doss-gollin_subjective:2023,
+  file = {/Users/jd82/Zotero/storage/8YRHIY8T/Doss-Gollin and Keller - 2022 - A subjective Bayesian framework for synthesizing d.pdf},
   repo = {https://github.com/jdossgollin/2022-elevation-robustness},
   preprint = {https://doi.org/10.1002/essoar.10511798.4},
+  langid = {english},
   urldate = {2022-12-31},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2022EF003044},
   doi = {10.1029/2022EF003044},
@@ -49,6 +51,7 @@ Projections of nonstationary climate risks can vary considerably from one source
   journaltitle = {Earth's Future},
   date = {2023-01},
   author = {Doss-Gollin, James and Keller, Klaus},
+  shorttitle = {Subjective},
   title = {A Subjective Bayesian Framework for Synthesizing Deep Uncertainties in Climate Risk Management},
 }
 ```

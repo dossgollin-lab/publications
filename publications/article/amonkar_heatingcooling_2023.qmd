@@ -35,6 +35,8 @@ While most electricity systems are designed to handle peak demand during summer 
 
 ```bibtex
 @article{amonkar_heatingcooling:2023,
+  file = {/Users/jd82/Zotero/storage/6J9XKA3G/Amonkar et al. - 2023 - Differential effects of climate change on average .pdf},
+  langid = {english},
   issue = {1},
   urldate = {2023-11-01},
   url = {https://www.nature.com/articles/s43247-023-01048-1},
@@ -48,6 +50,7 @@ While most electricity systems are designed to handle peak demand during summer 
   journaltitle = {Communications Earth \& Environment},
   date = {2023-11-01},
   author = {Amonkar, Yash and Doss-Gollin, James and Farnham, David J. and Modi, Vijay and Lall, Upmanu},
+  shorttitle = {Heating Cooling},
   title = {Differential Effects of Climate Change on Average and Peak Demand for Heating and Cooling across the Contiguous {{USA}}},
 }
 ```

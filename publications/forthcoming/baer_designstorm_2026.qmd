@@ -33,7 +33,9 @@ Flood risk assessments underpin flood management and resilience efforts worldwid
 
 ```bibtex
 @online{baer_designstorm:2026,
+  file = {/Users/jd82/Zotero/storage/9EJ2R7MM/Baer et al. - 2026 - Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk.pdf},
   pubstate = {prepublished},
+  langid = {english},
   urldate = {2026-01-29},
   url = {https://www.researchsquare.com/article/rs-8593870/v1},
   doi = {10.21203/rs.3.rs-8593870/v1},
@@ -41,6 +43,7 @@ Flood risk assessments underpin flood management and resilience efforts worldwid
   eprinttype = {Research Square},
   date = {2026-01-23},
   author = {Baer, John A. and Sebastian, Antonia and Grimley, Lauren E. and Doss-Gollin, James and Wright, Daniel B. and Hussain, Mohammad Ashar and Webber, Marissa},
+  shorttitle = {Design Storm},
   title = {Neglecting Spatiotemporal Rainfall Variability Underestimates Flood Hazard and Risk},
 }
 ```

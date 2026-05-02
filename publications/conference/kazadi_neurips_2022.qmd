@@ -33,7 +33,9 @@ Climate Change AI - NeurIPS 2022 Accepted Work
 
 ```bibtex
 @inproceedings{kazadi_neurips:2022,
+  file = {/Users/jd82/Zotero/storage/FIVWXGWN/Kazadi et al. - 2022 - Flood Prediction with Graph Neural Networks.pdf},
   repo = {https://github.com/kanz76/FloodGNN},
+  langid = {english},
   eventtitle = {{{NeurIPS}} 2022 {{Workshop}} on {{Tackling Climate Change}} with {{Machine Learning}}},
   urldate = {2023-01-10},
   url = {https://www.climatechange.ai/papers/neurips2022/75},
@@ -41,6 +43,7 @@ Climate Change AI - NeurIPS 2022 Accepted Work
   date = {2022-12-09},
   author = {Kazadi, Arnold N. and Doss-Gollin, James and Sebastian, Antonia and Silva, Arlei},
   booktitle = {Climate {{Change AI}}},
+  shorttitle = {Neurips},
   title = {Flood Prediction with Graph Neural Networks},
 }
 ```

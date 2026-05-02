@@ -36,7 +36,9 @@ During the past two decades, government efforts to provide water access to rural
 
 ```bibtex
 @article{doss-gollin_rwh:2015,
+  file = {/Users/jd82/Zotero/storage/M58IEYX6/Doss-Gollin et al-Analytic modeling of rainwater harvesting in the Brazilian Semiarid Northeast.pdf},
   repo = {https://github.com/jdossgollin/2014-matlab-cisternas-brasil},
+  langid = {english},
   url = {http://doi.wiley.com/10.1111/1752-1688.12376},
   doi = {10.1111/1752-1688.12376},
   pages = {129--137},
@@ -46,6 +48,7 @@ During the past two decades, government efforts to provide water access to rural
   journaltitle = {Journal of the American Water Resources Association},
   date = {2015-12},
   author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
+  shorttitle = {Rwh},
   title = {Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast},
 }
 ```

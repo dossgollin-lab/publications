@@ -37,7 +37,9 @@ Pluvial flood risk is mostly excluded in urban flood risk assessment. However, t
 
 ```bibtex
 @article{rozer_lossestimates:2019,
+  file = {/Users/jd82/Zotero/storage/UBJJEKPX/Rözer et al-Probabilistic models significantly reduce uncertainty in Hurricane Harvey.pdf},
   open = {true},
+  langid = {english},
   urldate = {2019-03-28},
   url = {http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018EF001074},
   doi = {10.1029/2018ef001074},
@@ -48,6 +50,7 @@ Pluvial flood risk is mostly excluded in urban flood risk assessment. However, t
   journaltitle = {Earth's Future},
   date = {2019},
   author = {Rözer, Viktor and Kreibich, Heidi and Schröter, Kai and Müller, Meike and Sairam, Nivedita and Doss-Gollin, James and Lall, Upmanu and Merz, Bruno},
+  shorttitle = {Loss Estimates},
   title = {Probabilistic Models Significantly Reduce Uncertainty in Hurricane Harvey Pluvial Flood Loss Estimates},
   ids = {Rozer:2019},
 }

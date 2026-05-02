@@ -37,7 +37,9 @@ Purpose of Review Electricity systems face substantial climate risks which are e
 
 ```bibtex
 @article{doss-gollin_review:2023,
+  file = {/Users/jd82/Zotero/storage/LLE6M4R3/Doss-Gollin et al. - 2023 - Improving the Representation of Climate Risks in L.pdf},
   preprint = {https://eartharxiv.org/repository/view/5684/},
+  langid = {english},
   urldate = {2026-04-30},
   url = {https://link.springer.com/10.1007/s40518-023-00224-3},
   doi = {10.1007/s40518-023-00224-3},
@@ -49,6 +51,7 @@ Purpose of Review Electricity systems face substantial climate risks which are e
   journaltitle = {Current Sustainable/Renewable Energy Reports},
   date = {2023-08-16},
   author = {Doss-Gollin, James and Amonkar, Yash and Schmeltzer, Katlyn and Cohan, Daniel},
+  shorttitle = {Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning},
   title = {Improving the Representation of Climate Risks in Long-Term Electricity Systems Planning: A Critical Review},
 }
 ```

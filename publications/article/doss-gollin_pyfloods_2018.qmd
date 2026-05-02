@@ -40,9 +40,11 @@ During the austral summer 2015/16, severe flooding displaced over 170 000 people
 
 ```bibtex
 @article{doss-gollin_pyfloods:2018,
+  file = {/Users/jd82/Zotero/storage/9T3NTVYA/Doss-Gollin et al-Heavy rainfall in Paraguay during the 2015-2016 austral summer.pdf},
   repo = {https://github.com/jdossgollin/2018-paraguay-floods},
   preprint = {https://eartharxiv.org/gzj8n/},
   open = {true},
+  langid = {english},
   urldate = {2026-01-27},
   url = {https://journals.ametsoc.org/doi/10.1175/JCLI-D-17-0805.1},
   doi = {10.1175/JCLI-D-17-0805.1},
@@ -54,6 +56,7 @@ During the austral summer 2015/16, severe flooding displaced over 170 000 people
   journaltitle = {Journal of Climate},
   date = {2018-09},
   author = {Doss-Gollin, James and Muñoz, Ángel G. and Mason, Simon J. and Pastén, Max},
+  shorttitle = {Pyfloods},
   title = {Heavy Rainfall in {{Paraguay}} during the 2015/16 Austral Summer: Causes and Subseasonal-to-Seasonal Predictive Skill},
 }
 ```

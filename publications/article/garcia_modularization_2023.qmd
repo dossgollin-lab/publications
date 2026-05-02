@@ -34,6 +34,8 @@ Hydrodynamic model outputs are used in urban flood risk modelling, flood alert s
 
 ```bibtex
 @article{garcia_modularization:2023,
+  file = {/Users/jd82/Zotero/storage/WC95UX6X/Garcia et al. - 2023 - Leveraging mesh modularization to lower the comput.pdf},
+  langid = {english},
   urldate = {2023-07-24},
   url = {https://doi.org/10.1080/19942060.2023.2225584},
   doi = {10.1080/19942060.2023.2225584},
@@ -46,6 +48,7 @@ Hydrodynamic model outputs are used in urban flood risk modelling, flood alert s
   journaltitle = {Engineering Applications of Computational Fluid Mechanics},
   date = {2023-03-20},
   author = {Garcia, M. and Juan, A. and Doss-Gollin, J. and Bedient, P.},
+  shorttitle = {Modularization},
   title = {Leveraging Mesh Modularization to Lower the Computational Cost of Localized Updates to Regional {{2D}} Hydrodynamic Model Outputs},
 }
 ```

@@ -36,6 +36,8 @@ Several recent widespread temperature extremes across the United States (U.S.) h
 
 ```bibtex
 @article{singh_potential:2024,
+  file = {/Users/jd82/Zotero/storage/D7JN7AYP/Singh et al. - 2024 - Enhanced solar and wind potential during widesprea.pdf},
+  langid = {english},
   urldate = {2024-03-18},
   url = {https://dx.doi.org/10.1088/1748-9326/ad2e72},
   doi = {10.1088/1748-9326/ad2e72},
@@ -48,6 +50,7 @@ Several recent widespread temperature extremes across the United States (U.S.) h
   journaltitle = {Environmental Research Letters},
   date = {2024-03},
   author = {Singh, Deepti and Bekris, Yianna S. and Rogers, Cassandra D. W. and Doss-Gollin, James and Coffel, Ethan D. and Kalashnikov, Dmitri A.},
+  shorttitle = {Potential},
   title = {Enhanced Solar and Wind Potential during Widespread Temperature Extremes across the {{U}}.{{S}}. Interconnected Energy Grids},
   ids = {singh_potential:2023},
 }

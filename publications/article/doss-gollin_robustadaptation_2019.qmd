@@ -37,8 +37,10 @@ The assessment and implementation of structural or financial instruments for cli
 
 ```bibtex
 @article{doss-gollin_robustadaptation:2019,
+  file = {/Users/jd82/Zotero/storage/8FBZLT7H/Doss-Gollin et al_2019_Robust adaptation to multiscale climate variability.pdf},
   repo = {https://github.com/jdossgollin/2018-robust-adaptation-cyclical-risk},
   open = {true},
+  langid = {english},
   urldate = {2019-06-09},
   url = {http://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019EF001154},
   doi = {10.1029/2019ef001154},
@@ -50,6 +52,7 @@ The assessment and implementation of structural or financial instruments for cli
   journaltitle = {Earth's Future},
   date = {2019-06-07},
   author = {Doss-Gollin, James and Farnham, David J. and Steinschneider, Scott and Lall, Upmanu},
+  shorttitle = {Robust Adaptation},
   title = {Robust Adaptation to Multiscale Climate Variability},
 }
 ```

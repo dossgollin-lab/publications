@@ -30,12 +30,14 @@ O emprego de cisternas para captação de água de chuva como uma alternativa de
 ```bibtex
 @inproceedings{doss-gollin_simposio:2014,
   open = {true},
+  langid = {english},
   doi = {10.13140/rg.2.1.4086.4807},
   location = {Natal, Rio Grande do Norte, Brasil},
   publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
   date = {2014},
   author = {Doss-Gollin, James and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva, given=Francisco Osny Enéas, prefix=da, useprefix=true},
   booktitle = {{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}},
+  shorttitle = {Simposio},
   title = {Considerações Sobre a Sustentabilidade Hídrica de Cisternas Para Captação de Chuva No Semiárido Brasileiro},
 }
 ```

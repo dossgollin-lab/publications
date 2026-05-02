@@ -34,6 +34,8 @@ The Mississippi River Basin (MRB), the fourth-largest river basin in the world, 
 
 ```bibtex
 @article{haider_mrb:2025,
+  file = {/Users/jd82/Zotero/storage/RSDX8FHG/Haider et al. - 2025 - Impact of 21st century climate change on Mississippi River Basin discharge in CESM2 large ensemble p.pdf},
+  langid = {english},
   urldate = {2025-05-01},
   url = {https://www.sciencedirect.com/science/article/pii/S0921818125000517},
   doi = {10.1016/j.gloplacha.2025.104742},
@@ -44,6 +46,7 @@ The Mississippi River Basin (MRB), the fourth-largest river basin in the world, 
   journaltitle = {Global and Planetary Change},
   date = {2025-06-01},
   author = {Haider, M. R. and Dee, S. G. and Doss-Gollin, J. and Dunne, K. B. J. and Muñoz, S. E.},
+  shorttitle = {Mrb},
   title = {Impact of 21st Century Climate Change on Mississippi River Basin Discharge in {{CESM2}} Large Ensemble Projections},
 }
 ```

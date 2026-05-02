@@ -40,7 +40,9 @@ Flood-risk assessments inform consequential public decisions. These assessments 
 
 ```bibtex
 @online{pollack_unrefined:2025,
+  file = {/Users/jd82/Zotero/storage/GWES5PJF/Pollack et al. - 2025 - Unrefined national building inventories can mislead risk assessments and decisions.pdf},
   pubstate = {prepublished},
+  langid = {english},
   urldate = {2025-10-09},
   url = {https://papers.ssrn.com/abstract=5575271},
   doi = {10.2139/ssrn.5575271},
@@ -50,6 +52,7 @@ Flood-risk assessments inform consequential public decisions. These assessments 
   number = {5575271},
   date = {2025-10-02},
   author = {Pollack, Adam and Benedict, James and Deb, Mithun and Doss-Gollin, James and Judi, David and Lehman, William and Lutz, Nicholas and Reesman, Cade and Sarazen, Elaine and Son, Youngjun and Srikrishnan, Vivek and Sun, Ning and Keller, Klaus},
+  shorttitle = {Unrefined},
   title = {Unrefined National Building Inventories Can Mislead Risk Assessments and Decisions},
   type = {SSRN Scholarly Paper},
 }

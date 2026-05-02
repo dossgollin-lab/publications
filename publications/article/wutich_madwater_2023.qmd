@@ -39,6 +39,8 @@ Centralized water infrastructure has, over the last century, brought safe and re
 
 ```bibtex
 @article{wutich_madwater:2023,
+  file = {/Users/jd82/Zotero/storage/U7W2XUZP/Wutich et al. - 2023 - MAD water Integrating modular, adaptive, and dece.pdf},
+  langid = {english},
   urldate = {2023-07-12},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1680},
   doi = {10.1002/wat2.1680},
@@ -48,6 +50,7 @@ Centralized water infrastructure has, over the last century, brought safe and re
   journaltitle = {WIREs Water},
   date = {2023-07-12},
   author = {Wutich, Amber and Thomson, Patrick and Jepson, Wendy and Stoler, Justin and Cooperman, Alicia D. and Doss-Gollin, James and Jantrania, Anish and Mayer, Alex and Nelson-Nuñez, Jami and Walker, W. Shane and Westerhoff, Paul},
+  shorttitle = {{{MAD}} Water},
   title = {{{MAD}} Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era},
 }
 ```

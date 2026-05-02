@@ -27,13 +27,16 @@ Infrastructure systems around the world face immediate crises and smoldering lon
 
 ```bibtex
 @thesis{doss-gollin_dissertation:2020,
+  file = {/Users/jd82/Zotero/storage/CQ9WSJRM/Doss-Gollin_2020_Sequential Adaptation through Prediction of Structured Climate Risk.pdf},
   open = {true},
+  langid = {english},
   urldate = {2020-07-31},
   url = {https://doi.org/10.7916/d8-p9ha-a055},
   doi = {10.7916/d8-p9ha-a055},
   institution = {Columbia University},
   date = {2020},
   author = {Doss-Gollin, James},
+  shorttitle = {Dissertation},
   title = {Sequential Adaptation through Prediction of Structured Climate Risk},
 }
 ```

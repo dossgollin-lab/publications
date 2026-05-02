@@ -36,8 +36,10 @@ Abstract General circulation models (GCMs) have been demonstrated to produce est
 
 ```bibtex
 @article{farnham_credibly:2018,
+  file = {/Users/jd82/Zotero/storage/TRHJHVBE/Farnham et al. - 2018 - Regional extreme precipitation events robust infe.pdf},
   repo = {https://github.com/d-farnham/ORB\_Paper/},
   open = {true},
+  langid = {english},
   urldate = {2026-04-30},
   url = {https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017WR021318},
   doi = {10.1002/2017WR021318},
@@ -49,6 +51,7 @@ Abstract General circulation models (GCMs) have been demonstrated to produce est
   journaltitle = {Water Resources Research},
   date = {2018-06},
   author = {Farnham, David J. and Doss-Gollin, James and Lall, Upmanu},
+  shorttitle = {Credibly},
   title = {Regional Extreme Precipitation Events: Robust Inference from Credibly Simulated {{GCM}} Variables},
   ids = {farnham_orbrep:2018},
 }
