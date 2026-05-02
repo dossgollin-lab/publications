@@ -28,12 +28,15 @@ How can Texas secure an affordable, sustainable, and reliable power supply for a
 
 ```bibtex
 @report{cohan_revampingthetexaspowergrid:2023,
+  file = {/Users/jd82/Zotero/storage/ALS25L3H/Cohan and Doss-Gollin - 2023 - Revamping the Texas Power Grid Insights from Rice.pdf},
+  langid = {english},
   urldate = {2024-04-10},
   url = {https://doi.org/10.25613/5FJJ-T074},
   location = {Houston, TX},
   institution = {Baker Institute for Public Policy},
   date = {2023-11-10},
   author = {Cohan, Daniel and Doss-Gollin, James},
+  shorttitle = {Revamping the Texas Power Grid},
   title = {Revamping the Texas Power Grid: Insights from Rice University’s Electricity Research},
 }
 ```

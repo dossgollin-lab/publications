@@ -54,6 +54,8 @@ People around the world seek climate risk information to guide their decisions. 
 
 ```bibtex
 @article{pollack_transparency:2026,
+  file = {/Users/jd82/Zotero/storage/JUMRBR77/Pollack et al. - 2026 - Unlocking the benefits of transparent and reusable science for climate risk management.pdf},
+  langid = {english},
   urldate = {2026-01-14},
   url = {https://www.pnas.org/doi/10.1073/pnas.2422157123},
   doi = {10.1073/pnas.2422157123},
@@ -65,6 +67,7 @@ People around the world seek climate risk information to guide their decisions. 
   journaltitle = {Proceedings of the National Academy of Sciences},
   date = {2026-01-20},
   author = {Pollack, Adam B. and Auermuller, Lisa and Burleyson, Casey D. and Campbell, Jentry and Condon, Madison and Cooper, Courtney and Coronese, Matteo and Dangendorf, Sönke and Doss-Gollin, James and Hegde, Prabhat and Helgeson, Casey and Kopp, Robert E. and Kwakkel, Jan and Lesk, Corey and Mankin, Justin and Nicholas, Robert E. and Rice, Jennie and Roth, Samantha and Srikrishnan, Vivek and Scheeler, Moira and Tuana, Nancy and Vernon, Chris and Zhao, Mengqi and Keller, Klaus},
+  shorttitle = {Transparency},
   title = {Unlocking the Benefits of Transparent and Reusable Science for Climate Risk Management},
 }
 ```

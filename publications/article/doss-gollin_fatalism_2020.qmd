@@ -33,7 +33,9 @@ The property damaged and the lives disrupted by recent hurricanes, floods, droug
 
 ```bibtex
 @article{doss-gollin_fatalism:2020,
+  file = {/Users/jd82/Zotero/storage/G49YEYJJ/Doss-Gollin et al-Adaptation over fatalism.pdf},
   open = {true},
+  langid = {english},
   urldate = {2020-01-29},
   url = {http://ascelibrary.org/doi/10.1061/%28ASCE%29WR.1943-5452.0001190},
   doi = {10.1061/(asce)wr.1943-5452.0001190},
@@ -43,6 +45,7 @@ The property damaged and the lives disrupted by recent hurricanes, floods, droug
   journaltitle = {Journal of Water Resources Planning and Management},
   date = {2020-04-01},
   author = {Doss-Gollin, James and Farnham, David J. and Ho, Michelle and Lall, Upmanu},
+  shorttitle = {Fatalism},
   title = {Adaptation over Fatalism: Leveraging High-Impact Climate Disasters to Boost Societal Resilience},
 }
 ```

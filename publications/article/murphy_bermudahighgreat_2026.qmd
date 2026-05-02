@@ -1,0 +1,55 @@
+---
+title: "The Changing Relationship Between The Bermuda High, Great Plains Low-Level Jet, And Mississippi River Basin Hydroclimate From The Last Millennium To 2100"
+author:
+  - Kelsey Murphy
+  - Sylvia Dee
+  - Christopher Hancock
+  - Emilia Pitchon
+  - "**James Doss-Gollin**"
+  - Elizabeth Wallace
+  - Samuel Muñoz
+date: 2026-01-01
+details: "Journal of Geophysical Research: Atmospheres"
+year: 2026
+volume: "131"
+issue: "9"
+pages: "e2025JD044340"
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@murphy_bermudahighgreat:2026"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1029/2025JD044340'
+      href: https://doi.org/10.1029/2025JD044340
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Mississippi River basin (MRB) hydroclimate is sensitive to the combined effects of anthropogenic climate change and internal climate variability, and at present, it remains uncertain whether lower Mississippi River discharge will increase or decrease in the future. Here, we examine the influence of atmospheric dynamics associated with the Bermuda high (BH) and Great Plains low-level jet (GPLLJ) on moisture delivery to the MRB, connecting shifts over time to projected changes in river discharge. We use ECMWF ERA5 reanalysis, Community Earth System Model (CESM) simulations, and BH and GPLLJ indices to evaluate changes over the last millennium and 21st century. The CESM1-Last Millennium Ensemble and CESM2 SSP3-7.0 Large Ensemble provide a robust pool of statistics and historical baselines to compare forced change against natural variability. Validation against ERA5 reanalysis shows CESM 1 and 2 simulations are sufficient to represent atmospheric circulation features. Simulated precipitation patterns in years with the highest/lowest BH and GPLLJ index values show the MRB is drier in years with a strong GPLLJ and expanded BH, while the northern (southern) region of the MRB is drier (wetter) in years with a weaker GPLLJ and contracted BH. River discharge patterns broadly follow precipitation: a stronger GPLLJ reduces discharge in the southern MRB, and a contracted BH increases discharge. Composite analyses reveal an increase in precipitation over the MRB in both contracted and expanded BH years in the 21st century that overpowers natural shifts driven by the BH and GPLLJ, a forced signal driven by anthropogenic climate change.
+
+## BibTeX
+
+```bibtex
+@article{murphy_bermudahighgreat:2026,
+  file = {/Users/jd82/Zotero/storage/EWMYIKVI/Murphy et al. - 2026 - The changing relationship between the Bermuda high, great plains low-level jet, and mississippi rive.pdf;/Users/jd82/Zotero/storage/XTQ2QEW3/2025JD044340.html},
+  langid = {english},
+  urldate = {2026-05-02},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044340},
+  doi = {10.1029/2025JD044340},
+  issn = {2169-8996},
+  pages = {e2025JD044340},
+  number = {9},
+  volume = {131},
+  shortjournal = {J. Geophys. Res.: Atmos.},
+  journaltitle = {Journal of Geophysical Research: Atmospheres},
+  date = {2026},
+  author = {Murphy, Kelsey and Dee, Sylvia and Hancock, Christopher and Pitchon, Emilia and Doss-Gollin, James and Wallace, Elizabeth and Muñoz, Samuel},
+  shorttitle = {Interannual},
+  title = {The Changing Relationship between the {{Bermuda}} High, Great Plains Low-Level Jet, and Mississippi River Basin Hydroclimate from the Last Millennium to 2100},
+}
+```

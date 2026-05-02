@@ -33,6 +33,8 @@ Functional data analysis, which models data as realizations of random functions 
 
 ```bibtex
 @article{liu_functional:2025,
+  file = {/Users/jd82/Zotero/storage/DQLE5WI2/Liu et al. - 2025 - Bayesian functional graphical models with change-point detection.pdf},
+  langid = {english},
   urldate = {2025-01-06},
   url = {https://www.sciencedirect.com/science/article/pii/S0167947324002068},
   doi = {10.1016/j.csda.2024.108122},
@@ -43,6 +45,7 @@ Functional data analysis, which models data as realizations of random functions 
   journaltitle = {Computational Statistics and Data Analysis},
   date = {2025-06-01},
   author = {Liu, Chunshan and Kowal, Daniel R. and Doss-Gollin, James and Vannucci, Marina},
+  shorttitle = {Functional},
   title = {Bayesian Functional Graphical Models with Change-Point Detection},
 }
 ```

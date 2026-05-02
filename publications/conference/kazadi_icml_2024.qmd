@@ -29,10 +29,13 @@ Machine Learning (ML) has emerged as a promising alternative to numerical method
 
 ```bibtex
 @inproceedings{kazadi_icml:2024,
+  file = {/Users/jd82/Zotero/storage/FBEYDT7K/Kazadi et al. - 2024 - Pluvial flood emulation with hydraulics-informed m.pdf},
+  langid = {english},
   url = {https://openreview.net/forum?id=kIHIA6Lr0B},
   date = {2024-06-24},
   author = {Kazadi, Arnold and Doss-Gollin, James and Silva, Arlei},
   booktitle = {Forty-{{First International Conference}} on {{Machine Learning}}},
+  shorttitle = {Icml},
   title = {Pluvial Flood Emulation with Hydraulics-Informed Message Passing},
 }
 ```

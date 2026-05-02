@@ -33,6 +33,8 @@ Understanding the risks posed by extreme rainfall events requires analysis of pr
 
 ```bibtex
 @article{liu_generative:2025,
+  file = {/Users/jd82/Zotero/storage/5C2DCIH9/Liu et al. - 2025 - Downscaling Extreme Precipitation with Wasserstein Regularized Diffusion.pdf},
+  langid = {english},
   urldate = {2025-09-20},
   url = {https://ieeexplore.ieee.org/document/11172297},
   doi = {10.1109/TGRS.2025.3611872},
@@ -42,6 +44,7 @@ Understanding the risks posed by extreme rainfall events requires analysis of pr
   journaltitle = {IEEE Transactions on Geoscience and Remote Sensing},
   date = {2025},
   author = {Liu, Yuhao and Doss-Gollin, James and Dai, Qiushi and Veeraraghavan, Ashok and Balakrishnan, Guha},
+  shorttitle = {Generative},
   title = {Downscaling Extreme Precipitation with Wasserstein Regularized Diffusion},
 }
 ```

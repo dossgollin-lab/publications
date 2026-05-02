@@ -28,8 +28,10 @@ format:
 ```bibtex
 @online{hancock_robust21stcenturyhydrologicaltrendsinthemississippiriverbasinfromcmip6:2025,
   pubstate = {prepublished},
+  langid = {english},
   date = {2025},
   author = {Hancock, Christopher L and Dee, Sylvia G. and Haider, Muhammad Rezaul and Doss-Gollin, James and Lehner, Flavio and Murphy, Kelsey and Munoz, Samuel E.},
+  shorttitle = {Robust 21st Century Hydrological Trends in the Mississippi River Basin from {{CMIP6}}},
   title = {Robust 21st Century Hydrological Trends in the Mississippi River Basin from {{CMIP6}}: West-Gets-Drier, East-Gets-Wetter},
 }
 ```

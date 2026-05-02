@@ -35,6 +35,8 @@ The Mississippi River is a critical waterway in the United States, and hydrologi
 
 ```bibtex
 @article{odonnell_cesm:2025,
+  file = {/Users/jd82/Zotero/storage/KCPIIVBT/O'Donnell et al. - 2025 - Evaluation of hydroclimatic biases in the Community Earth System Model (CESM1) within the Mississipp.pdf},
+  langid = {english},
   urldate = {2025-09-25},
   url = {https://hess.copernicus.org/articles/29/4637/2025/},
   doi = {10.5194/hess-29-4637-2025},
@@ -47,6 +49,7 @@ The Mississippi River is a critical waterway in the United States, and hydrologi
   journaltitle = {Hydrology and Earth System Sciences},
   date = {2025-09-25},
   author = {O'Donnell, Michelle and Murphy, Kelsey and Doss-Gollin, James and Dee, Sylvia and Munoz, Samuel},
+  shorttitle = {Cesm},
   title = {Evaluation of Hydroclimatic Biases in the Community Earth System Model ({{CESM1}}) within the Mississippi River Basin},
 }
 ```

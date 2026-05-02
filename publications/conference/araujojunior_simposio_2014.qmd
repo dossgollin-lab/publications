@@ -31,13 +31,16 @@ Este trabalho tem como objetivo avaliar a persistência da seca meteorológica a
 
 ```bibtex
 @inproceedings{araujojunior_simposio:2014,
+  file = {/Users/jd82/Zotero/storage/62MZXVD3/Araújo Júnior et al-Análise dos eventos de seca no Nordeste Setentrional Brasileiro com base no.pdf},
   open = {true},
+  langid = {english},
   doi = {10.13140/rg.2.1.4610.7685},
   location = {Natal, Rio Grande do Norte, Brasil},
   publisher = {Associação Brasileira de Recursos Hídricos (ABRH)},
   date = {2014},
   author = {Araújo Júnior, Luiz Martins and family=Souza Filho, given=Francisco de Assis, prefix=de, useprefix=true and family=Silva Silveira, given=Cleiton, prefix=da, useprefix=true and Aragão Dias, Tyhago and Doss-Gollin, James},
   booktitle = {{{XII Simpósio}} de {{Recursos Hídricos Do Nordeste}}},
+  shorttitle = {Simposio},
   title = {Análise Dos Eventos de Seca No Nordeste Setentrional Brasileiro Com Base No Índice de Precipitação Normalizada},
 }
 ```
