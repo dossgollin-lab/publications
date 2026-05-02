@@ -10,6 +10,7 @@ year: 2024
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@kazadi_icml:2024"
+image: ../../_assets/img/pubs/kazadi_icml_2024.png
 
 about:
   template: solana
