@@ -1,11 +1,11 @@
 ---
 title: "Impact Of 21St Century Climate Change On Mississippi River Basin Discharge In CESM2 Large Ensemble Projections"
 author:
-  - M. R. Haider
-  - S. G. Dee
-  - "**J. Doss-Gollin**"
-  - K. B. J. Dunne
-  - S. E. Muñoz
+  - Muhammad Rezaul Haider
+  - Sylvia Dee
+  - "**James Doss-Gollin**"
+  - Kieran Dunne
+  - Samuel Muñoz
 date: 2025-06-01
 details: "Global and Planetary Change"
 year: 2025
@@ -45,7 +45,7 @@ The Mississippi River Basin (MRB), the fourth-largest river basin in the world, 
   shortjournal = {Global Planet. Change},
   journaltitle = {Global and Planetary Change},
   date = {2025-06-01},
-  author = {Haider, M. R. and Dee, S. G. and Doss-Gollin, J. and Dunne, K. B. J. and Muñoz, S. E.},
+  author = {Haider, Muhammad Rezaul and Dee, Sylvia and Doss-Gollin, James and Dunne, Kieran and Muñoz, Samuel},
   shorttitle = {Mrb},
   title = {Impact of 21st Century Climate Change on Mississippi River Basin Discharge in {{CESM2}} Large Ensemble Projections},
 }
