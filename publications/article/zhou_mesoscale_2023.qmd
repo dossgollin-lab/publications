@@ -41,7 +41,7 @@ It is widely acknowledged that distributed water systems (DWSs), which integrate
 
 ```bibtex
 @article{zhou_mesoscale:2023,
-  file = {/Users/jd82/Zotero/storage/5Y7ICXAN/Zhou et al. - 2023 - Mesoscale modeling of distributed water systems en.pdf},
+  file = {/Users/jd82/Zotero/storage/5UBC8NMA/extracted-pymupdf.md;/Users/jd82/Zotero/storage/5Y7ICXAN/Zhou et al. - 2023 - Mesoscale modeling of distributed water systems en.pdf},
   repo = {https://github.com/Zhouxiaomu33/Mesoscale-water-distribution-network-modeling},
   preprint = {http://www.essoar.org/doi/10.1002/essoar.10512641.1},
   open = {true},

@@ -37,7 +37,7 @@ Mississippi River basin (MRB) hydroclimate is sensitive to the combined effects 
 
 ```bibtex
 @article{murphy_interannual:2026,
-  file = {/Users/jd82/Zotero/storage/EWMYIKVI/Murphy et al. - 2026 - The changing relationship between the Bermuda high, great plains low-level jet, and mississippi rive.pdf;/Users/jd82/Zotero/storage/XTQ2QEW3/2025JD044340.html},
+  file = {/Users/jd82/Zotero/storage/EWMYIKVI/Murphy et al. - 2026 - The changing relationship between the Bermuda high, great plains low-level jet, and mississippi rive.pdf;/Users/jd82/Zotero/storage/H7KVE2QP/extracted-docling.md;/Users/jd82/Zotero/storage/TVWUTBW4/extracted-docling.md;/Users/jd82/Zotero/storage/XTQ2QEW3/2025JD044340.html},
   langid = {english},
   urldate = {2026-05-02},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JD044340},

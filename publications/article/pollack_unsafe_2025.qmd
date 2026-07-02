@@ -34,7 +34,7 @@ Pollack et al., (2025). UNSAFE: An UNcertain Structure And Fragility Ensemble fr
 
 ```bibtex
 @article{pollack_unsafe:2025,
-  file = {/Users/jd82/Zotero/storage/KPA52VVI/Pollack et al. - 2025 - UNSAFE An UNcertain Structure And Fragility Ensemble framework for property-level flood risk estima.pdf},
+  file = {/Users/jd82/Zotero/storage/2G3IICRB/extracted-docling.md;/Users/jd82/Zotero/storage/KPA52VVI/Pollack et al. - 2025 - UNSAFE An UNcertain Structure And Fragility Ensemble framework for property-level flood risk estima.pdf},
   langid = {english},
   urldate = {2025-11-13},
   url = {https://joss.theoj.org/papers/10.21105/joss.07527},

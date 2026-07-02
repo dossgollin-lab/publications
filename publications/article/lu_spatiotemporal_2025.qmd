@@ -33,7 +33,7 @@ Precipitation exceedance probabilities are widely used in engineering design, ri
 
 ```bibtex
 @article{lu_spatiotemporal:2025,
-  file = {/Users/jd82/Zotero/storage/VLUHZNJA/Lu et al. - 2025 - Bayesian spatiotemporal nonstationary model quantifies robust increases in daily extreme rainfall ac.pdf},
+  file = {/Users/jd82/Zotero/storage/EJIQ36CH/extracted-docling.md;/Users/jd82/Zotero/storage/VLUHZNJA/Lu et al. - 2025 - Bayesian spatiotemporal nonstationary model quantifies robust increases in daily extreme rainfall ac.pdf;/Users/jd82/Zotero/storage/W58PRA8K/extracted-pymupdf.md},
   langid = {english},
   urldate = {2025-08-23},
   url = {https://dx.doi.org/10.1088/2752-5295/adf56e},

@@ -54,7 +54,7 @@ People around the world seek climate risk information to guide their decisions. 
 
 ```bibtex
 @article{pollack_transparency:2026,
-  file = {/Users/jd82/Zotero/storage/JUMRBR77/Pollack et al. - 2026 - Unlocking the benefits of transparent and reusable science for climate risk management.pdf},
+  file = {/Users/jd82/Zotero/storage/I2VV8F52/extracted-pymupdf.md;/Users/jd82/Zotero/storage/JUMRBR77/Pollack et al. - 2026 - Unlocking the benefits of transparent and reusable science for climate risk management.pdf},
   langid = {english},
   urldate = {2026-01-14},
   url = {https://www.pnas.org/doi/10.1073/pnas.2422157123},

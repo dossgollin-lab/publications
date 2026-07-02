@@ -1,0 +1,50 @@
+---
+title: "Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard And Risk"
+author:
+  - John A. Baer
+  - Antonia Sebastian
+  - Lauren E. Grimley
+  - "**James Doss-Gollin**"
+  - Daniel B. Wright
+  - Mohammad Ashar Hussain
+  - Marissa K. Webber
+date: 2026-06-27
+details: "npj Natural Hazards"
+year: 2026
+bibliography: ../../my-papers.bib
+csl: ../../american-geophysical-union.csl
+nocite: "@baer_designstorm:2026"
+
+about:
+  template: solana
+  links:
+    - text: 'DOI: 10.1038/s44304-026-00208-5'
+      href: https://doi.org/10.1038/s44304-026-00208-5
+      icon: link
+
+format:
+  html:
+    page-layout: full
+---
+
+Flood risk assessments underpin flood management and resilience efforts worldwide, including land-use planning, infrastructure design, and insurance requirements. Many of these assessments rely on design storms, which assume a one-to-one relationship between the frequency of storms, flooding, and damage and neglect the spatial and temporal structure of rainfall. Here, we show that these assumptions can lead to systematic misrepresentation of flood hazard and risk. Using a coastal watershed in North Carolina, we compare design storm-based estimates with those from stochastic storm transposition, a probabilistic framework used to generate synthetic events with realistic rainfall fields. Though both methods produce similar basin-averaged rainfall statistics, we find design storms underestimate flood inundation frequency by 31–35\% and expected annual damage by 93\% relative to SST. These results reveal how complex storm-flood-damage relationships amplify risk from smaller, more frequent storms and illustrate that accounting for spatiotemporal rainfall variability is crucial to risk assessment.
+
+## BibTeX
+
+```bibtex
+@article{baer_designstorm:2026,
+  file = {/Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf},
+  langid = {english},
+  urldate = {2026-06-29},
+  url = {https://www.nature.com/articles/s44304-026-00208-5},
+  doi = {10.1038/s44304-026-00208-5},
+  issn = {2948-2100},
+  publisher = {Nature Publishing Group},
+  shortjournal = {npj Nat. Hazards},
+  journaltitle = {npj Natural Hazards},
+  date = {2026-06-27},
+  author = {Baer, John A. and Sebastian, Antonia and Grimley, Lauren E. and Doss-Gollin, James and Wright, Daniel B. and Hussain, Mohammad Ashar and Webber, Marissa K.},
+  shorttitle = {Design Storm},
+  title = {Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard and Risk},
+}
+```
