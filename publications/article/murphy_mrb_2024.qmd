@@ -45,7 +45,7 @@ The Mississippi River is a vital economic corridor used for generating hydroelec
   pages = {e2024PA004902},
   number = {7},
   volume = {39},
-  shortjournal = {Paleoceanogr. Paleoclimatol.},
+  shortjournal = {Paleoceanogr. Paleoclimatology},
   journaltitle = {Paleoceanography and Paleoclimatology},
   date = {2024-06-11},
   author = {Murphy, Kelsey and Dee, Sylvia and Doss-Gollin, James and Dunne, Kieran B. J. and O’Donnell, Michelle and Muñoz, Samuel},

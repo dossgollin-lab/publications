@@ -36,7 +36,7 @@ Abstract General circulation models (GCMs) have been demonstrated to produce est
 
 ```bibtex
 @article{farnham_credibly:2018,
-  file = {/Users/jd82/Zotero/storage/TRHJHVBE/Farnham et al. - 2018 - Regional extreme precipitation events robust infe.pdf},
+  file = {/Users/jd82/Zotero/storage/CX8KC2HK/extracted-docling.md;/Users/jd82/Zotero/storage/TRHJHVBE/Farnham et al. - 2018 - Regional extreme precipitation events robust infe.pdf},
   repo = {https://github.com/d-farnham/ORB\_Paper/},
   open = {true},
   langid = {english},

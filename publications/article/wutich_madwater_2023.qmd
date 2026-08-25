@@ -46,7 +46,6 @@ Centralized water infrastructure has, over the last century, brought safe and re
   doi = {10.1002/wat2.1680},
   issn = {2049-1948},
   pages = {e1680},
-  shortjournal = {WIREs Water},
   journaltitle = {WIREs Water},
   date = {2023-07-12},
   author = {Wutich, Amber and Thomson, Patrick and Jepson, Wendy and Stoler, Justin and Cooperman, Alicia D. and Doss-Gollin, James and Jantrania, Anish and Mayer, Alex and Nelson-Nuñez, Jami and Walker, W. Shane and Westerhoff, Paul},

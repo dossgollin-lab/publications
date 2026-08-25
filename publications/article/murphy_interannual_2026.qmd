@@ -46,7 +46,7 @@ Mississippi River basin (MRB) hydroclimate is sensitive to the combined effects 
   pages = {e2025JD044340},
   number = {9},
   volume = {131},
-  shortjournal = {J. Geophys. Res.: Atmos.},
+  shortjournal = {J. Geophys. Res. Atmos.},
   journaltitle = {Journal of Geophysical Research: Atmospheres},
   date = {2026},
   author = {Murphy, Kelsey and Dee, Sylvia and Hancock, Christopher and Pitchon, Emilia and Doss-Gollin, James and Wallace, Elizabeth and Muñoz, Samuel},

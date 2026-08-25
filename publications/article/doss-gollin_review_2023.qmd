@@ -47,7 +47,7 @@ Purpose of Review Electricity systems face substantial climate risks which are e
   pages = {206--217},
   number = {4},
   volume = {10},
-  shortjournal = {Curr. Sustainable/Renewable Energy Rep.},
+  shortjournal = {Curr. Sustain. Energy Rep.},
   journaltitle = {Current Sustainable/Renewable Energy Reports},
   date = {2023-08-16},
   author = {Doss-Gollin, James and Amonkar, Yash and Schmeltzer, Katlyn and Cohan, Daniel},

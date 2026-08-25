@@ -33,14 +33,14 @@ Flood risk assessments underpin flood management and resilience efforts worldwid
 
 ```bibtex
 @article{baer_designstorm:2026,
-  file = {/Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf},
+  file = {/Users/jd82/Zotero/storage/QKUZICQ4/Baer et al. - 2026 - Neglecting spatiotemporal rainfall variability misrepresents flood hazard and risk.pdf;/Users/jd82/Zotero/storage/SMXNWRRF/extracted-docling.md},
   langid = {english},
   urldate = {2026-06-29},
   url = {https://www.nature.com/articles/s44304-026-00208-5},
   doi = {10.1038/s44304-026-00208-5},
   issn = {2948-2100},
   publisher = {Nature Publishing Group},
-  shortjournal = {npj Nat. Hazards},
+  shortjournal = {Npj Nat. Hazards},
   journaltitle = {npj Natural Hazards},
   date = {2026-06-27},
   author = {Baer, John A. and Sebastian, Antonia and Grimley, Lauren E. and Doss-Gollin, James and Wright, Daniel B. and Hussain, Mohammad Ashar and Webber, Marissa K.},

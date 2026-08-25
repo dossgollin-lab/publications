@@ -46,7 +46,7 @@ Pluvial flood risk is mostly excluded in urban flood risk assessment. However, t
   issn = {2328-4277},
   number = {4},
   volume = {7},
-  shortjournal = {Earth's Future},
+  shortjournal = {Earths Future},
   journaltitle = {Earth's Future},
   date = {2019},
   author = {Rözer, Viktor and Kreibich, Heidi and Schröter, Kai and Müller, Meike and Sairam, Nivedita and Doss-Gollin, James and Lall, Upmanu and Merz, Bruno},

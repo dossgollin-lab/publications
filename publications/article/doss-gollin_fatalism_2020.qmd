@@ -41,7 +41,7 @@ The property damaged and the lives disrupted by recent hurricanes, floods, droug
   doi = {10.1061/(asce)wr.1943-5452.0001190},
   number = {4},
   volume = {146},
-  shortjournal = {J. Water Resour. Plann. Manage.},
+  shortjournal = {J. Water Resour. Plan. Manag.},
   journaltitle = {Journal of Water Resources Planning and Management},
   date = {2020-04-01},
   author = {Doss-Gollin, James and Farnham, David J. and Ho, Michelle and Lall, Upmanu},

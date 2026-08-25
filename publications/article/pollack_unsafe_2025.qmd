@@ -43,7 +43,7 @@ Pollack et al., (2025). UNSAFE: An UNcertain Structure And Fragility Ensemble fr
   pages = {7527},
   number = {115},
   volume = {10},
-  shortjournal = {J. Open Source Software},
+  shortjournal = {J. Open Source Softw.},
   journaltitle = {Journal of Open Source Software},
   date = {2025-11-13},
   author = {Pollack, Adam and Doss-Gollin, James and Srikrishnan, Vivek and Keller, Klaus},
