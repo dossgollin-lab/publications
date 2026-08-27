@@ -14,6 +14,7 @@ year: 2026
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@baer_designstorm:2026"
+image: ../../_assets/img/pubs/baer_designstorm_2026.png
 
 about:
   template: solana
