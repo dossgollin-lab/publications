@@ -17,6 +17,7 @@ pages: "2263--2280"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@hancock_mississippitrends:2026"
+image: ../../_assets/img/pubs/hancock_mississippitrends_2026.png
 
 about:
   template: solana
