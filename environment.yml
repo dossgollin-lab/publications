@@ -9,5 +9,5 @@ dependencies:
   - requests
   - pip
   - pip:
-      - bibtexparser
+      - bibtexparser<2  # bibtex_to_qmd.py uses the 1.x API (bibtexparser.bparser), removed in 2.0
       - PyMuPDF
