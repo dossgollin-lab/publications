@@ -53,35 +53,6 @@ def strip_braces(value):
     return value.replace("{", "").replace("}", "")
 
 
-def format_title(title):
-    """Format the title using title case except for content inside curly braces."""
-    if not title:
-        return title
-
-    # Iteratively convert double curly braces to single
-    while "{{" in title and "}}" in title:
-        title = title.replace("{{", "{").replace("}}", "}")
-
-    # Extract content inside curly braces and replace with placeholders
-    preserved_texts = re.findall(r"{(.*?)}", title)
-    placeholder_map = {}
-    for idx, text in enumerate(preserved_texts):
-        placeholder = f"__PLACEHOLDER{idx}__"
-        placeholder_map[placeholder] = text
-        title = title.replace("{" + text + "}", placeholder)
-
-    # Use title case on the rest
-    title = title.title()
-
-    # Replace placeholders with original text from curly braces
-    for placeholder, text in placeholder_map.items():
-        # Make sure to replace the title-cased version of placeholder
-        title_cased_placeholder = placeholder.title()
-        title = title.replace(title_cased_placeholder, text)
-
-    return title
-
-
 def format_author_name(name):
     """Format the author name considering both 'lastname, firstname' and detailed formats."""
     # Strip outer curly braces if present
@@ -178,7 +149,7 @@ def write_metadata_to_qmd(entry, qmd_file):
 
     # Title
     qmd_file.write(
-        f"title: \"{format_title(escape_yaml_string(entry.get('title', '')))}\"\n"
+        f"title: \"{strip_braces(escape_yaml_string(entry.get('title', '')))}\"\n"
     )
 
     # Author
