@@ -20,7 +20,7 @@ year: 2025
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@pollack_unrefined:2025"
-image: ../../_assets/img/pubs/pollack_unrefined_2025.png
+image: ../../_assets/img/pubs/pollack_unrefined_2025.jpg
 
 about:
   template: solana
