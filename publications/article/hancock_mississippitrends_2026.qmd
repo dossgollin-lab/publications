@@ -1,5 +1,5 @@
 ---
-title: "Twenty-First-Century Hydrological Trends In The Mississippi River Basin Intensify The East–West Moisture Gradient"
+title: "Twenty-First-Century Hydrological Trends in the Mississippi River Basin Intensify the East–West Moisture Gradient"
 author:
   - Christopher L. Hancock
   - Sylvia G. Dee

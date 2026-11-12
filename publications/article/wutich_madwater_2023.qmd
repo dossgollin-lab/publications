@@ -1,5 +1,5 @@
 ---
-title: "MAD Water: Integrating Modular, Adaptive, And Decentralized Approaches For Water Security In The Climate Change Era"
+title: "MAD Water: Integrating Modular, Adaptive, and Decentralized Approaches for Water Security in the Climate Change Era"
 author:
   - Amber Wutich
   - Patrick Thomson

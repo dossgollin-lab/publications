@@ -1,5 +1,5 @@
 ---
-title: "Impact Of 21St Century Climate Change On Mississippi River Basin Discharge In CESM2 Large Ensemble Projections"
+title: "Impact of 21st Century Climate Change on Mississippi River Basin Discharge in CESM2 Large Ensemble Projections"
 author:
   - Muhammad Rezaul Haider
   - Sylvia Dee

@@ -1,5 +1,5 @@
 ---
-title: "Competing Influences Of Land Use And Greenhouse Gas Emissions On Mississippi River Basin Hydroclimate Simulated Over The Last Millennium"
+title: "Competing Influences of Land Use and Greenhouse Gas Emissions on Mississippi River Basin Hydroclimate Simulated over the Last Millennium"
 author:
   - "**Kelsey Murphy**"
   - Sylvia Dee

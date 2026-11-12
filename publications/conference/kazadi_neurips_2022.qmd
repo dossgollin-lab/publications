@@ -1,5 +1,5 @@
 ---
-title: "Flood Prediction With Graph Neural Networks"
+title: "Flood Prediction with Graph Neural Networks"
 author:
   - Arnold N. Kazadi
   - "**James Doss-Gollin**"

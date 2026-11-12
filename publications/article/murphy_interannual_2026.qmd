@@ -1,5 +1,5 @@
 ---
-title: "The Changing Relationship Between The Bermuda High, Great Plains Low-Level Jet, And Mississippi River Basin Hydroclimate From The Last Millennium To 2100"
+title: "The Changing Relationship between the Bermuda High, Great Plains Low-Level Jet, and Mississippi River Basin Hydroclimate from the Last Millennium to 2100"
 author:
   - "**Kelsey Murphy**"
   - Sylvia Dee

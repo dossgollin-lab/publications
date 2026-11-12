@@ -1,5 +1,5 @@
 ---
-title: "Unrefined National Building Inventories Can Mislead Risk Assessments And Decisions"
+title: "Unrefined National Building Inventories Can Mislead Risk Assessments and Decisions"
 author:
   - Adam Pollack
   - James Benedict

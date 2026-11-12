@@ -1,5 +1,5 @@
 ---
-title: "Análise Dos Eventos De Seca No Nordeste Setentrional Brasileiro Com Base No Índice De Precipitação Normalizada"
+title: "Análise Dos Eventos de Seca No Nordeste Setentrional Brasileiro Com Base No Índice de Precipitação Normalizada"
 author:
   - Luiz Martins Araújo Júnior
   - Francisco de Assis de Souza Filho

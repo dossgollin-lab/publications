@@ -1,5 +1,5 @@
 ---
-title: "Differential Effects Of Climate Change On Average And Peak Demand For Heating And Cooling Across The Contiguous USA"
+title: "Differential Effects of Climate Change on Average and Peak Demand for Heating and Cooling across the Contiguous USA"
 author:
   - Yash Amonkar
   - "**James Doss-Gollin**"

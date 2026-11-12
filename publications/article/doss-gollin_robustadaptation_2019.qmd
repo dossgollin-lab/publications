@@ -1,5 +1,5 @@
 ---
-title: "Robust Adaptation To Multiscale Climate Variability"
+title: "Robust Adaptation to Multiscale Climate Variability"
 author:
   - "**James Doss-Gollin**"
   - David J. Farnham

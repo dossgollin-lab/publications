@@ -1,5 +1,5 @@
 ---
-title: "Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard And Risk"
+title: "Neglecting Spatiotemporal Rainfall Variability Misrepresents Flood Hazard and Risk"
 author:
   - John A. Baer
   - Antonia Sebastian

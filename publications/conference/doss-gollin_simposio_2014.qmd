@@ -1,5 +1,5 @@
 ---
-title: "Considerações Sobre A Sustentabilidade Hídrica De Cisternas Para Captação De Chuva No Semiárido Brasileiro"
+title: "Considerações Sobre a Sustentabilidade Hídrica de Cisternas Para Captação de Chuva No Semiárido Brasileiro"
 author:
   - "**James Doss-Gollin**"
   - Francisco de Assis de Souza Filho

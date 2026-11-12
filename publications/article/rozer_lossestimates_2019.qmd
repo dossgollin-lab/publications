@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Models Significantly Reduce Uncertainty In Hurricane Harvey Pluvial Flood Loss Estimates"
+title: "Probabilistic Models Significantly Reduce Uncertainty in Hurricane Harvey Pluvial Flood Loss Estimates"
 author:
   - Viktor Rözer
   - Heidi Kreibich

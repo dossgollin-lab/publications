@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Functional Graphical Models With Change-Point Detection"
+title: "Bayesian Functional Graphical Models with Change-Point Detection"
 author:
   - Chunshan Liu
   - Daniel R. Kowal

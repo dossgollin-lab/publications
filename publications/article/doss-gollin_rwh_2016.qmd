@@ -1,5 +1,5 @@
 ---
-title: "Analytic Modeling Of Rainwater Harvesting In The Brazilian Semiarid Northeast"
+title: "Analytic Modeling of Rainwater Harvesting in the Brazilian Semiarid Northeast"
 author:
   - "**James Doss-Gollin**"
   - Francisco de Assis de Souza Filho
@@ -13,6 +13,7 @@ pages: "129--137"
 bibliography: ../../my-papers.bib
 csl: ../../american-geophysical-union.csl
 nocite: "@doss-gollin_rwh:2016"
+image: ../../_assets/img/pubs/doss-gollin_rwh_2016.jpg
 
 about:
   template: solana
